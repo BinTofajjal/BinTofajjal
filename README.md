@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @BinTofajjal
 - 👀 I’m interested in Webdesign
-- 🌱 I’m currently learning JavaScripts
-- 💞️ I’m looking to collaborate on Wordpress themes and Plugins.
-- 📫 Reach me on skype : @BinTofajjal
+- 💞️ I’m looking to collaborate on WordPress themes and Plugins.
+- 📫 Reach me on Skype: @BinTofajjal
 
 [![@bintofajjal's Holopin board](https://holopin.me/bintofajjal)](https://holopin.io/@bintofajjal)
 
